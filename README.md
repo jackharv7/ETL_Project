@@ -26,4 +26,4 @@ In this project, we are combining several disparate datasets, transforming/clean
   * [SQL Table Schmea](https://github.com/mrichtmyer/ETL_Project/blob/master/code/postgreSQL/sports_data.sql)
   
 # Report
-* Full report can be found here: [Final Report](https://github.com/mrichtmyer/ETL_Project/blob/master/report/ETL_report.docx)
+* Full report can be found here: [Final Report](https://github.com/mrichtmyer/ETL_Project/blob/master/report/ETL_report.pdf)
